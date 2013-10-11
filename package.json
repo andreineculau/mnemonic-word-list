@@ -1,0 +1,16 @@
+{
+  "name": "mnemonic-word-list",
+  "description": "Mnemonic Word List",
+  "keywords": [
+    "mnemonic",
+    "word",
+    "list"
+  ],
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andreineculau/mnemonic-word-list.git"
+  },
+  "license": "Unlicense",
+  "main": "mnemonic.json"
+}
